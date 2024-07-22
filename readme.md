@@ -1,6 +1,9 @@
 # Ebook Website
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
+<p>
+  <a href="https://bs5-ebook-site.vercel.app/" target="_blank">Click this link to view the site live</a>
+</p>
 
 <img src="./images/screen.png"  />
 
